@@ -1,0 +1,15 @@
+# api keys
+config.py
+
+#venv
+env/
+
+#pycache
+__pycache__/
+
+#vscode
+.vscode/
+
+downloads/
+lyrics/
+results/
